@@ -1,0 +1,18 @@
+#attendance{
+    border:1px solid black;
+    width:750px;
+    padding:20px;
+    margin:100px auto;
+    box-shadow: 0 2px 8px;
+}
+#home{
+   display: flex;
+   justify-content: space-between;
+   padding:10px;
+
+}
+#h3{
+    position: fixed;
+    top:0;
+    left:30%;
+}

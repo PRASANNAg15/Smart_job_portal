@@ -1,0 +1,38 @@
+#top{
+    width:100%;
+    border:1px solid black;
+    background:lightblue;
+    height:100px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 1;
+}
+
+#top img{
+    width:70px;
+    height:70px;
+    border-radius: 100px;
+}
+#profilecontent{
+    display: flex;
+    gap:10px;
+    margin-right: 10px;
+    border:1px solid black;
+    border-color:lightblue;
+    justify-content: center;
+}
+#profilecontent button{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+h1{
+    position: fixed;
+    top:50%;
+    left:30%;
+}
+h3{
+    position: fixed;
+    top:60%;
+    left:35%;
+}
